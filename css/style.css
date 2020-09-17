@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header {
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+
+.top {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+}
+
+.underline  {
+    text-decoration: underline;
+    color: blue;
+}
+
+main {
+    padding: 80px;
+}
+
+.testo h2 {
+    margin: 20px 0px;
+}
